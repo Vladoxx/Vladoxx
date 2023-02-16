@@ -4,7 +4,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wladkoch/?locale=pt_BR)
 
-[![|Oracle Next Education ONE](../oracle-next-education-one.png)](https://cursos.alura.com.br/emprega-one/profile/wladkochmansky)
+[![Oracle Next Education ONE](../oracle-next-education-one.png)](https://cursos.alura.com.br/emprega-one/profile/wladkochmansky)
 
 <!-- https://guiadeti.com.br/wp-content/uploads/2022/06/guia-cursos-one-800x450.png -->
 
