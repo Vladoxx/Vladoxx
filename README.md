@@ -1,3 +1,22 @@
+### Downloading...
+
+</br>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wladkoch/?locale=pt_BR)
+
+</br>
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=Vladoxx)
+
+[![Hits](https://hits.sh/github.com/Vladoxx/Vladoxx.svg)](https://hits.sh/github.com/Vladoxx/Vladoxx/)
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a> -->
+
 <!--
 **Vladoxx/Vladoxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,8 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wladkoch/?locale=pt_BR)
-
+<!-- 
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)]()
 
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)]()
@@ -133,29 +151,18 @@ Here are some ideas to get you started:
 [![]()]()
 [![]()]() -->
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a> -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Vladoxx&repo=alura-oracle_challenge_02_jogo-da-forca&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Vladoxx&repo=alura-oracle_challenge_02_jogo-da-forca&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
-
-### GitHub Stats
+<!-- ### GitHub Stats
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Vladoxx&theme=codeSTACKr&count_private=true&show_icons=true)
 
 ### Most Used Languages
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladoxx&theme=codeSTACKr&&layout=compact)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladoxx&theme=codeSTACKr&&layout=compact) -->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats) -->
 
-### Contributors Badge
+<!-- ### Contributors Badge
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=Vladoxx/trybe-exercicios)
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=Vladoxx)
-
-[![Hits](https://hits.sh/github.com/Vladoxx/Vladoxx.svg)](https://hits.sh/github.com/Vladoxx/Vladoxx/)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=Vladoxx/trybe-exercicios) -->
