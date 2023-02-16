@@ -5,14 +5,18 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wladkoch/?locale=pt_BR)
 
 [![Oracle Next Education ONE](oracle-next-education-one.png)](https://cursos.alura.com.br/emprega-one/profile/wladkochmansky)
+[![Microsoft Learn](ml1c.png)](https://learn.microsoft.com/pt-br/users/wladkochmansky/achievements)
 
-<!-- https://guiadeti.com.br/wp-content/uploads/2022/06/guia-cursos-one-800x450.png -->
+<!-- [![Microsoft Learn](ml1.png)](https://learn.microsoft.com/pt-br/users/wladkochmansky/achievements)
+[![Oracle Next Education ONE](1.png)](https://cursos.alura.com.br/emprega-one/profile/wladkochmansky) -->
 
-</br>
+<br><br><br>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Vladoxx)
+<div style="float: right;">
 
-![Hits](https://hits.sh/github.com/Vladoxx/Vladoxx.svg)
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=Vladoxx)
+  ![Hits](https://hits.sh/github.com/Vladoxx/Vladoxx.svg)
+</div>
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
@@ -36,7 +40,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- 
+<!--
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)]()
 
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)]()
