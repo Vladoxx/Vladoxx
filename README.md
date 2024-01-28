@@ -8,9 +8,6 @@
 [![Oracle Next Education ONE](oracle-next-education-one.png)](https://cursos.alura.com.br/emprega-one/profile/wladkochmansky)
 [![Microsoft Learn](microsoft-learn.png)](https://learn.microsoft.com/pt-br/users/wladkochmansky/achievements)
 
-[![Microsoft Learn](ml1.png)](https://learn.microsoft.com/pt-br/users/wladkochmansky/achievements)
-[![Oracle Next Education ONE](1.png)](https://cursos.alura.com.br/emprega-one/profile/wladkochmansky)
-
 <br>
 
 <div style="float: right;">
