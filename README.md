@@ -1,4 +1,4 @@
-<div align="center">
+<div class="center-content">
 
 # Downloading...
 </br>
@@ -17,6 +17,7 @@
 </div>
 
 </div>
+
 
 <!--
 **Vladoxx/Vladoxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
