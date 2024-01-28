@@ -1,4 +1,6 @@
-### Downloading...
+<div align="center">
+
+# Downloading...
 </br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wladkoch/?locale=pt_BR)
@@ -17,12 +19,7 @@
   ![Hits](https://hits.sh/github.com/Vladoxx/Vladoxx.svg)
 </div>
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a> -->
+</div>
 
 <!--
 **Vladoxx/Vladoxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
