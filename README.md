@@ -1,35 +1,27 @@
-<div style="text-align: left;">
-  # Downloading...
-</div>
+### Downloading...
 
-<div style="text-align: center;">
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wladkoch/?locale=pt_BR)
 
-  <table align="center">
-    <tr>
-      <td>
-        [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wladkoch/?locale=pt_BR)
-      </td>
-      <td>
-        [![Oracle Next Education ONE](oracle-next-education-one.png)](https://cursos.alura.com.br/emprega-one/profile/wladkochmansky)
-      </td>
-      <td>
-        [![Microsoft Learn](microsoft-learn.png)](https://learn.microsoft.com/pt-br/users/wladkochmansky/achievements)
-      </td>
-    </tr>
-  </table>
+[![Oracle Next Education ONE](oracle-next-education-one.png)](https://cursos.alura.com.br/emprega-one/profile/wladkochmansky)
+[![Microsoft Learn](microsoft-learn.png)](https://learn.microsoft.com/pt-br/users/wladkochmansky/achievements)
 
-</div>
+[![Microsoft Learn](ml1.png)](https://learn.microsoft.com/pt-br/users/wladkochmansky/achievements)
+[![Oracle Next Education ONE](1.png)](https://cursos.alura.com.br/emprega-one/profile/wladkochmansky)
 
-<div style="text-align: center;">
+
+
+<div style="float: right;">
 
   ![Profile View Counter](https://komarev.com/ghpvc/?username=Vladoxx)
   ![Hits](https://hits.sh/github.com/Vladoxx/Vladoxx.svg)
-
 </div>
 
-
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 
 
