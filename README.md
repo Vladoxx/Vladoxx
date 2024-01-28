@@ -19,12 +19,6 @@
 
 </div>
 
-<style>
-  .center-content {
-    text-align: center;
-  }
-</style>
-
 
 
 
