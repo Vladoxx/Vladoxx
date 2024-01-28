@@ -1,10 +1,8 @@
+<div style="text-align: left;">
+  # Downloading...
+</div>
+
 <div class="center-content">
-
-  <div style="text-align: left;">
-    # Downloading...
-  </div>
-
-  </br>
 
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wladkoch/?locale=pt_BR)
 
@@ -12,7 +10,12 @@
 
   [![Microsoft Learn](microsoft-learn.png)](https://learn.microsoft.com/pt-br/users/wladkochmansky/achievements)
 
-  <br>
+</div>
+
+<div style="text-align: center;">
+
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=Vladoxx)
+  ![Hits](https://hits.sh/github.com/Vladoxx/Vladoxx.svg)
 
 </div>
 
@@ -22,12 +25,6 @@
   }
 </style>
 
-
-<div style="float: right;">
-
-  ![Profile View Counter](https://komarev.com/ghpvc/?username=Vladoxx)
-  ![Hits](https://hits.sh/github.com/Vladoxx/Vladoxx.svg)
-</div>
 
 
 
