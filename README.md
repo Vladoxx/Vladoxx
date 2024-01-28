@@ -2,7 +2,7 @@
   # Downloading...
 </div>
 
-<div class="center-content">
+<div class="center-content" style="text-align: center;">
 
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wladkoch/?locale=pt_BR)
 
@@ -18,6 +18,7 @@
   ![Hits](https://hits.sh/github.com/Vladoxx/Vladoxx.svg)
 
 </div>
+
 
 
 
