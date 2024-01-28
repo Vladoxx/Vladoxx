@@ -4,15 +4,19 @@
 
 <div style="text-align: center;">
 
-  <div class="center-content" style="display: inline-block; text-align: left; margin: 0 auto;">
-
-    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wladkoch/?locale=pt_BR)
-
-    [![Oracle Next Education ONE](oracle-next-education-one.png)](https://cursos.alura.com.br/emprega-one/profile/wladkochmansky)
-
-    [![Microsoft Learn](microsoft-learn.png)](https://learn.microsoft.com/pt-br/users/wladkochmansky/achievements)
-
-  </div>
+  <table align="center">
+    <tr>
+      <td>
+        [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wladkoch/?locale=pt_BR)
+      </td>
+      <td>
+        [![Oracle Next Education ONE](oracle-next-education-one.png)](https://cursos.alura.com.br/emprega-one/profile/wladkochmansky)
+      </td>
+      <td>
+        [![Microsoft Learn](microsoft-learn.png)](https://learn.microsoft.com/pt-br/users/wladkochmansky/achievements)
+      </td>
+    </tr>
+  </table>
 
 </div>
 
@@ -22,6 +26,7 @@
   ![Hits](https://hits.sh/github.com/Vladoxx/Vladoxx.svg)
 
 </div>
+
 
 
 
