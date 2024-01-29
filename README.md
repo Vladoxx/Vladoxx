@@ -1,12 +1,17 @@
 ### Downloading...
 
-<div class="img">
+<div style="text-align: center;">
 
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wladkoch/?locale=pt_BR)
+  <div class="img" style="display: flex; flex-direction: column; align-items: center;">
 
-  [![Oracle Next Education ONE](oracle-next-education-one.png)](https://cursos.alura.com.br/emprega-one/profile/wladkochmansky)
+    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wladkoch/?locale=pt_BR)
 
-  [![Microsoft Learn](microsoft-learn.png)](https://learn.microsoft.com/pt-br/users/wladkochmansky/achievements)
+    [![Oracle Next Education ONE](oracle-next-education-one.png)](https://cursos.alura.com.br/emprega-one/profile/wladkochmansky)
+
+    [![Microsoft Learn](microsoft-learn.png)](https://learn.microsoft.com/pt-br/users/wladkochmansky/achievements)
+
+  </div>
+
 </div>
 
 <br>
@@ -16,7 +21,9 @@
 
   ![Profile View Counter](https://komarev.com/ghpvc/?username=Vladoxx)
   ![Hits](https://hits.sh/github.com/Vladoxx/Vladoxx.svg)
+
 </div>
+
 
 
 
