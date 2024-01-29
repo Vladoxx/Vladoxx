@@ -5,23 +5,12 @@
 [![Oracle Next Education ONE](oracle-next-education-one.png)](https://cursos.alura.com.br/emprega-one/profile/wladkochmansky)
 [![Microsoft Learn](microsoft-learn.png)](https://learn.microsoft.com/pt-br/users/wladkochmansky/achievements)
 
-[![Microsoft Learn](ml1.png)](https://learn.microsoft.com/pt-br/users/wladkochmansky/achievements)
-[![Oracle Next Education ONE](1.png)](https://cursos.alura.com.br/emprega-one/profile/wladkochmansky)
-
-
-
 <div style="float: right;">
 
   ![Profile View Counter](https://komarev.com/ghpvc/?username=Vladoxx)
   ![Hits](https://hits.sh/github.com/Vladoxx/Vladoxx.svg)
 </div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
 
 
