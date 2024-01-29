@@ -13,9 +13,8 @@
 <br>
 
 <div style="float: right;">
-  
-  ![Profile View Counter](https://komarev.com/ghpvc/?username=Vladoxx)
 
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=Vladoxx)
   ![Hits](https://hits.sh/github.com/Vladoxx/Vladoxx.svg)
 </div>
 
