@@ -1,17 +1,13 @@
 ### Downloading...
 
-<div style="text-align: center;">
+| <div class="img" style="text-align: left;">[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wladkoch/?locale=pt_BR)</div> | <div class="img" style="text-align: left;">[![Oracle Next Education ONE](oracle-next-education-one.png)](https://cursos.alura.com.br/emprega-one/profile/wladkochmansky)</div> | <div class="img" style="text-align: left;">[![Microsoft Learn](microsoft-learn.png)](https://learn.microsoft.com/pt-br/users/wladkochmansky/achievements)</div> |
+| --- | --- | --- |
 
-  <div class="img" style="display: inline-block; text-align: left;">
-
-    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wladkoch/?locale=pt_BR)
-    
-    [![Oracle Next Education ONE](oracle-next-education-one.png)](https://cursos.alura.com.br/emprega-one/profile/wladkochmansky)
-    [![Microsoft Learn](microsoft-learn.png)](https://learn.microsoft.com/pt-br/users/wladkochmansky/achievements)
-
-  </div>
-
+<div style="float: right;">
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=Vladoxx)
+  ![Hits](https://hits.sh/github.com/Vladoxx/Vladoxx.svg)
 </div>
+
 
 <div style="float: right;">
   ![Profile View Counter](https://komarev.com/ghpvc/?username=Vladoxx)
