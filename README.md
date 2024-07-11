@@ -1,6 +1,6 @@
 <hr>
 
-## 👋 Olá Mundo!
+## 👋 Olá, Mundo!
 
 Sou **Wlad**, formado em Turismo e apaixonado por programação, cursando vários cursos na área. Tenho experiência como **desenvolvedor** em uma Startup e na área técnica de **Geotecnologia** em outra empresa, no suporte e aplicações de uso de APIs do Google Maps.
 
